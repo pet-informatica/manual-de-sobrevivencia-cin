@@ -22,7 +22,7 @@ Para adicionar uma nova página, você precisa criar um novo arquivo e adicioná
 
 `NOME-DO-ICONE`: Nome do ícone que acompanhará o link na barra lateral. Você pode consultar os ícones disponíveis no [site do Material Design Icons](https://materialdesignicons.com/).  
 `TITULO-DA-PAGINA`: Título da página na barra lateral.  
-`ARQUIVO-DA-PÁGINA`: Nome do arquivo da página correspondente.
+`ARQUIVO-DA-PAGINA`: Nome do arquivo da página correspondente.
 
 ### Editando a página inicial
 

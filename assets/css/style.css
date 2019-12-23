@@ -500,6 +500,11 @@ body.close .content {
         top: 30px;
     }
 
+    body section.cover .cover-main {
+        max-width: none;
+        margin: -20px 24px 0;
+    }
+
     main {
         height: auto;
         overflow-x: hidden;
@@ -612,7 +617,8 @@ section.cover.show {
 
 section.cover .cover-main {
     flex: 1;
-    margin: -20px 16px 0;
+    max-width: 768px;
+    margin: -20px auto 0;
     text-align: center;
     z-index: 1;
 }
@@ -627,15 +633,15 @@ section.cover a:hover {
 }
 
 section.cover p {
-    line-height: 1.5rem;
     margin: 1em 0;
+    font-size: 1.2rem;
 }
 
 section.cover h1 {
     color: inherit;
     font-size: 2.5rem;
-    font-weight: 300;
-    margin: 0.625rem 0 2.5rem;
+    font-weight: 600;
+    margin: 2rem 0 1.5rem;
     position: relative;
     text-align: center;
 }
