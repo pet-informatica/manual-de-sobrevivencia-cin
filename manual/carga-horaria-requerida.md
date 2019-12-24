@@ -1,1 +1,0 @@
-# Carga Horária Requerida

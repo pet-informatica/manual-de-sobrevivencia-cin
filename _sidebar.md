@@ -1,6 +1,6 @@
 * [<span class="iconify" data-icon="mdi-home"></span> Apresentação](/manual/home.md)
 * [<span class="iconify" data-icon="mdi-file-table"></span> Grade Curricular](/manual/grade-curricular.md)
-* [<span class="iconify" data-icon="mdi-timetable"></span> Carga Horária Requerida](/manual/carga-horaria-requerida.md)
+* [<span class="iconify" data-icon="mdi-timetable"></span> Carga Horária](/manual/carga-horaria.md)
 * [<span class="iconify" data-icon="mdi-at"></span> SIG@](/manual/siga.md)
 * [<span class="iconify" data-icon="mdi-account-tie"></span> Secretaria de Graduação](/manual/secretaria-de-graduacao.md)
 * [<span class="iconify" data-icon="mdi-face-agent"></span> Help Desk](/manual/help-desk.md)
@@ -16,3 +16,5 @@
 * [<span class="iconify" data-icon="mdi-printer"></span> Impressão](/manual/impressao.md)
 * [<span class="iconify" data-icon="mdi-sale"></span> Descontos Acadêmicos](/manual/descontos-academicos.md)
 * [<span class="iconify" data-icon="mdi-chevron-double-up"></span> Oportunidades](/manual/oportunidades.md)
+* [<img class="custom-icon" src="assets/svg/pet-icon.svg"> Oferecido pelo PET](/manual/oferecido-pelo-pet.md)
+
