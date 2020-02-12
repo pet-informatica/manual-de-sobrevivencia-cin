@@ -1,24 +1,24 @@
 # Manual de Sobrevivência {docsify-ignore-all}
 
 <div class="home-buttons">
-<a href="#/manual/grade-curricular"><img src="../assets/svg/button_start.svg" alt="Começar do início"></a>
+<a href="#/manual/grade-curricular"><img src="assets/svg/button_start.svg" alt="Começar do início"></a>
 
 <div class="home-three">
-<a href="#/manual/mapas"><img src="../assets/svg/button_maps.svg" alt="Mapas"></a>
-<a href="#/manual/descontos-academicos"><img src="../assets/svg/button_discounts.svg" alt="Descontos"></a>
-<a href="#/manual/oportunidades"><img src="../assets/svg/button_oportunities.svg" alt="Oportunidades"></a>
+<a href="#/manual/mapas"><img src="assets/svg/button_maps.svg" alt="Mapas"></a>
+<a href="#/manual/descontos-academicos"><img src="assets/svg/button_discounts.svg" alt="Descontos"></a>
+<a href="#/manual/oportunidades"><img src="assets/svg/button_oportunities.svg" alt="Oportunidades"></a>
 </div>
 
 <div class="home-three">
-<a href="https://cin.ufpe.br"><img src="../assets/svg/button_cin.svg" alt="CIn"></a>
-<a href="https://cin.ufpe.br/~secgrad"><img src="../assets/svg/button_secgrad.svg" alt="Secgrad"></a>
-<a href="https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura"><img src="../assets/svg/button_infraestrutura.svg" alt="Infraestrutura"></a>
+<a href="https://cin.ufpe.br"><img src="assets/svg/button_cin.svg" alt="CIn"></a>
+<a href="https://cin.ufpe.br/~secgrad"><img src="assets/svg/button_secgrad.svg" alt="Secgrad"></a>
+<a href="https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura"><img src="assets/svg/button_infraestrutura.svg" alt="Infraestrutura"></a>
 </div>
 
 <div class="home-three">
-<a href="https://siga.ufpe.br/"><img src="../assets/svg/button_siga.svg" alt="Siga"></a>
-<a href="https://www.ufpe.br/"><img src="../assets/svg/button_ufpe.svg" alt="UFPE"></a>
-<a href="https://pet.cin.ufpe.br/"><img src="../assets/svg/button_pet.svg" alt="PET"></a>
+<a href="https://siga.ufpe.br/"><img src="assets/svg/button_siga.svg" alt="Siga"></a>
+<a href="https://www.ufpe.br/"><img src="assets/svg/button_ufpe.svg" alt="UFPE"></a>
+<a href="https://pet.cin.ufpe.br/"><img src="assets/svg/button_pet.svg" alt="PET"></a>
 </div>
 
 </div>
