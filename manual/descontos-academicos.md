@@ -1,7 +1,5 @@
 # Descontos Acadêmicos
 
-> TODO: Refatorar usando cards
-
 Alunos do Centro de Informática muito usualmente necessitam da utilização de softwares e plataformas para desenvolver seus projetos e auxiliar em sua formação acadêmica. Muitas destas, porém, não se encontram disponíveis gratuitamente e por muitas vezes podem ter um preço inacessível para muitos que dependem de seu uso. 
 
 Visando o amplo e abrangente acesso para todos os alunos do centro, o CIn, em parceria com empresas que incentivam a educação acadêmica na área computacional, oferecem descontos e gratuidades em diversos serviços essenciais para melhorar e facilitar a experiência da graduação.

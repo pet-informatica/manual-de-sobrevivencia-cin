@@ -7,10 +7,13 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png"/>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 </head>
 <body>
   <div id="app"></div>
   <script>
+
     window.$docsify = {
       name: 'Manual de Sobrevivência CIn',
       repo: 'https://github.com/pet-informatica/manual-de-sobrevivencia-cin',
@@ -28,6 +31,27 @@
         nextText: 'Próximo',
         crossChapter: true
       }
+      /*
+      
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else {
+              url = 'https://github.com/pet-informatica/manual-de-sobrevivencia-cin/blob/master/' + vm.route.file
+            }
+            var editHtml = '[<span class="iconify" data-icon="mdi-github-circle"></span> Editar esta página no GitHub](' + url + ')\n'
+            return  html
+              + '\n\n'
+              + editHtml
+          })
+        }
+      ]
+      
+      */
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
