@@ -11,4 +11,4 @@ Outras recomendações:
 O CIn ainda não oferece nenhum restaurante ou cantina em seu prédio, refeições e outros tipos de lanches podem ser feitos na cantina da Área II e no restaurante da ASSIF, sendo esses os lugares mais próximos. Existem outras opções de restaurantes e lanchonetes dentro da própria universidade e em seus arredores. Também há a possibilidade de pedir comida por delivery e também há alguns serviços que disponibilizam a entrega de quentinhas diariamente no CIn.
 
 
-!> Alguns serviços de entrega de comida, como o iFood, requerem um número para o endereço de entrega. Apesar do CIn não possuir um número, geralmente usa-se o endereço **Av. Jornalista Aníbal Fernandes, 500 - Cidade Universitária**. Como ponto de referência indica-se o **Centro de Informática da Universidade Federal de Pernambuco**.
+!> Alguns serviços de entrega de comida, como o iFood, requerem um número para o endereço de entrega. Apesar do CIn não possuir um número, geralmente usa-se o endereço **Av. Jornalista Aníbal Fernandes, 500 - Cidade Universitária, CEP 50740-560**. Como ponto de referência indica-se o **Centro de Informática da Universidade Federal de Pernambuco**.

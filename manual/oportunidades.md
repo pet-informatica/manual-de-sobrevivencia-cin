@@ -83,7 +83,7 @@ Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio po
 - **Ciência da Computação** (IF421): o aluno deve ter cursado todas as disciplinas obrigatórias (exceto apenas de trabalho de graduação e o próprio estágio obrigatório), totalizando carga horária maior que 1905h.
 - **Engenharia da Computação** (IF819): o aluno deve ter integralizado 63% da carga horária total do curso (isso inclui eletivas, eletivas livres, etc).
 
-!> Essas porcentagens pode ser consultadas pelo Sig@.
+!> Essas porcentagens podem ser consultadas pelo Sig@.
 
 ### Oficializando o processo de estágio
 
@@ -112,7 +112,7 @@ Depois desse longo processo, você está apto a ir na [Secretaria de Graduação
 
 Você pode encontrar informações gerais sobre estágios [neste link](https://docs.google.com/a/cin.ufpe.br/viewer?a=v&pid=sites&srcid=Y2luLnVmcGUuYnJ8Y29vcmQtY2N8Z3g6MTFkYTMzNTkxOTdhMmQyZQ).
 
-## Estágio Não-obrigatório
+## Estágio Não-Obrigatório
 
 Basicamente, os pré-requisitos para estágios não-obrigatórios são:
 - O estágio deve ter carga horária de 4h/dia.
