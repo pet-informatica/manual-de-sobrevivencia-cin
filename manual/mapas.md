@@ -324,17 +324,17 @@ O bloco E compõe o prédio branco do CIn.
 </tr>
 <tr>
     <td><b>B023</b></td>
-    <td>Grad 1</td>
+    <td>Grad 2</td>
     <td>Bloco B, Térreo</td>
 </tr>
 <tr>
     <td><b>B024</b></td>
-    <td>Grad 5</td>
+    <td>Grad 1</td>
     <td>Bloco B, Térreo</td>
 </tr>
 <tr>
     <td><b>B025</b></td>
-    <td>Grad 2</td>
+    <td>Grad 3</td>
     <td>Bloco B, Térreo</td>
 </tr>
 <tr>
