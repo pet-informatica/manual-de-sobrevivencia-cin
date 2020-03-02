@@ -35,7 +35,11 @@ Saiba mais sobre o Apple Developer Academy acessando o endereço http://academy.
 
 ## E.S.T.U.F.A.
 
-> TODO
+A E.S.T.U.F.A nasceu da junção de muitos grupos de sistemas embarcados que foram se unindo ao longo do tempo com o objetivo de vivenciar na prática alguns dos desafios da Engenharia da Computação. Um ambiente sempre colaborativo, a E.S.T.U.F.A se tonou o lugar comum para o crescimento e aprimoramento de muitos desses projetos, ao mesmo tempo que busca sempre trazer novas equipes com novas ideias para que possam se desenvolver através de um ambiente propício à pesquisa e desenvolvimento, e ao compartilhamento de conhecimento e experiências.
+
+Atualmente, a ESTUFA possui 37 alunos, os quais estão continuando projetos que foram desenvolvidos em competições de Sistemas Embarcados e de FPGA Design. Todos esses projetos são orientados pela professora Edna Natividade e alguns possuem parcerias externas, como FAV e UFRPE.
+
+Saiba mais sobre a ESTUFA no Instagram (https://instagr.am/estufa.cin), onde são publicadas as chamadas para projetos e chamadas para desenvolvedores.
 
 ## RobôCIn
 

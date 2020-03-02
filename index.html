@@ -53,6 +53,29 @@
       
       */
     }
+
+      function filterTable() {
+
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("index-search");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("index-table");
+      tr = table.getElementsByTagName("tr");
+
+      for (let i = 0; i < tr.length; i++) {
+        for (let td of tr[i].getElementsByTagName("td")) {
+          if (td) {
+            txtValue = td.textContent || td.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+              tr[i].style.display = "";
+              break;
+            } else {
+              tr[i].style.display = "none";
+            }
+          }
+        }
+      }
+    }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script async defer src="https://code.iconify.design/1/1.0.3/iconify.min.js"></script>
