@@ -12,7 +12,7 @@
 <div class="home-three">
 <a href="https://cin.ufpe.br"><img src="assets/svg/button_cin.svg" alt="CIn"></a>
 <a href="https://cin.ufpe.br/~secgrad"><img src="assets/svg/button_secgrad.svg" alt="Secgrad"></a>
-<a href="https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura"><img src="assets/svg/button_infraestrutura.svg" alt="Infraestrutura"></a>
+<a href="https://suporte.cin.ufpe.br/"><img src="assets/svg/button_infraestrutura.svg" alt="Infraestrutura"></a>
 </div>
 
 <div class="home-three">
