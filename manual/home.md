@@ -31,6 +31,10 @@ Caso você tenha dúvidas, correções, sugestões, ou outras informações úte
 
 ## O que há de novo nessa versão
 
+**Versão 2021.1**
+
+- Atualizamos algumas informações sobre a VPN e os descontos acadêmicos.
+
 **Versão 2020.1.1**
 
 - Renovamos completamente o Manual de Sobrevivência! Ele deixou de ser um documento em PDF para se tornar um site, com muito mais interatividade. Revisamos todo o conteúdo e adicionamos várias coisas novas. Agora, você também pode contribuir através do [GitHub](https://github.com/pet-informatica/manual-de-sobrevivencia-cin).
