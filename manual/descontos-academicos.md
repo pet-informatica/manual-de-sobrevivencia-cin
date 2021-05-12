@@ -14,7 +14,9 @@ A JetBrains disponibiliza gratuitamente o All Products Pack para todos os estuda
 
 ## Microsoft Azure Dev Tools
 
-Em parceria com a Microsoft, o CIn oferece aos seus alunos, através da plataforma Microsoft Azure, softwares educacionais modernos e bastante úteis para a vida acadêmica sem os usuais custos que eles normalmente trazem. Tal parceria garante acesso a uma grande seleção de softwares da Microsoft, sempre atualizada, que conta atualmente com nomes como o Windows 10, Windows Server e o Visual Studio. Para ter acesso ao Dev Tools, você deve se cadastrar com o e-mail do CIn no serviço [Office 365 Education](https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura/softwares/office-365-edu/cadastro-office-365) usando seu e-mail do CIn e então acessar o [Azure Dev Tools](http://cin.ufpe.br/azure) com a conta que você criou no serviço do Office. Conheça mais sobre em https://azure.microsoft.com/pt-br/education/institutions/.
+Em parceria com a Microsoft, o CIn oferece aos seus alunos, através da plataforma Microsoft Azure, softwares educacionais modernos e bastante úteis para a vida acadêmica sem os usuais custos que eles normalmente trazem. Tal parceria garante acesso a uma grande seleção de softwares da Microsoft sempre atualizados que conta atualmente com nomes como o Windows 10, Windows Server e o Visual Studio. Para ter acesso ao Dev Tools, você deve se cadastrar com o e-mail do CIn no serviço [Office 365 Education](https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura/softwares/office-365-edu/cadastro-office-365) usando seu e-mail do CIn e então acessar o [Azure Dev Tools](http://cin.ufpe.br/azure) com a conta que você criou no serviço do Office. 
+
+Para mais informações sobre o acesso ao Azure Dev Tools acesse [a página do suprte do CIn](https://suporte.cin.ufpe.br/softwares).
 
 ## InVision
 

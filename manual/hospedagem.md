@@ -44,4 +44,4 @@ Cada aluno possui direito a 256 MB de hospedagem de arquivos gratuita nos servid
 
 ## Acessando o Servidor Git
 
-O CIn oferece gratuitamente aos alunos o acesso a um servidor Git, com criação de repositórios privados. O GitLab é utilizado como gerenciador de repositórios no servidor. O servidor está disponível em https://gitcin.cin.ufpe.br, e o acesso é feito por meio das suas credenciais do CIn (utilize a opção _LDAP_ para fazer login).
+O CIn oferece gratuitamente aos alunos o acesso a um servidor Git, com criação de repositórios privados. O GitLab é utilizado como gerenciador de repositórios no servidor. O servidor está disponível em [gitlab.cin.ufpe.br](https://gitlab.cin.ufpe.br), e o acesso é feito por meio das suas credenciais do CIn (utilize a opção _LDAP_ para fazer login).
