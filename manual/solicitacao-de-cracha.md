@@ -27,4 +27,4 @@ Para solicitar a emissão da 2ª via do crachá ou demais vias, proceder da segu
 
 --------------------
 
-Informações retiradas de https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura/orientacoes/cracha.
+Informações retiradas de https://helpdesk.cin.ufpe.br/orientacoes/cracha.

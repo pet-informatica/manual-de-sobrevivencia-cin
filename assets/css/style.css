@@ -782,6 +782,10 @@ body {
     font-weight: 600;
 }
 
+.markdown-section h4 {
+    padding-left: 1rem;
+}
+
 .markdown-section a {
     color: #fb6b02;
     font-weight: 600;

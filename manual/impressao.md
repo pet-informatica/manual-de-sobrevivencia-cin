@@ -23,10 +23,10 @@ A seguir, o quantitativo do subsídio por grupo:
 			<td>20 páginas/mês</td>
 		</tr>
 		<tr>
-			<td>Pesquisa</td>
+			<td>Pesquisador</td>
 			<td>50 páginas/mês</td>
 		</tr>
 	</tbody>
 </table>
 
-Para visualizar sua cota de impressão, acesse o endereço https://cin.ufpe.br/printers, e informe seu login e senha. Para utilizar as impressões a partir de um computador próprio, conecte-se à [VPN](/manual/vpn) do CIn e siga as instruções em https://sites.google.com/cin.ufpe.br/coordenacao-de-infraestrutura/servicos/impressoes.
+Para visualizar sua cota de impressão, acesse o endereço https://cin.ufpe.br/printers, e informe seu login e senha. Para utilizar as impressões a partir de um computador próprio, conecte-se à [VPN](/manual/vpn) do CIn e siga as instruções em https://helpdesk.cin.ufpe.br/servicos/impressao.
