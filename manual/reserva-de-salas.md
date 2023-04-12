@@ -1,6 +1,6 @@
 # Reserva de Salas
 
-Todos os alunos podem consultar as salas que pertencem ao CIn, sua capacidade, bem como se elas estão reservadas ou não, e qual a finalidade da reserva. Para tal, é só acessar a página https://cin.ufpe.br/reserve e clicar na sala em que deseja verificar. Todos os alunos também podem efetuar reserva de todas as salas do CIn, exceto as de reunião. Para isso:
+Todos os alunos podem consultar as salas que pertencem ao CIn, sua capacidade, bem como se elas estão reservadas ou não, e qual a finalidade da reserva. Para tal, é só acessar a página https://helpdesk.cin.ufpe.br/servicos/reservas e clicar na sala em que deseja verificar. Todos os alunos também podem efetuar reserva de todas as salas do CIn, exceto as de reunião. Para isso:
 
 1. Verifique a disponibilidade da sala desejada através do link disponibilizado acima.
 

@@ -1,5 +1,7 @@
 * [<span class="iconify" data-icon="mdi-home"></span> Apresentação](/manual/home.md)
 * [<span class="iconify" data-icon="mdi-file-table"></span> Grade Curricular](/manual/grade-curricular.md)
+* [<span class="iconify" data-icon="mdi-notebook-edit-outline"></span> Recepção](/manual/recepção.md)
+
 * [<span class="iconify" data-icon="mdi-timetable"></span> Carga Horária](/manual/carga-horaria.md)
 * [<span class="iconify" data-icon="mdi-at"></span> SIG@](/manual/siga.md)
 * [<span class="iconify" data-icon="mdi-account-tie"></span> Secretaria de Graduação](/manual/secretaria-de-graduacao.md)
