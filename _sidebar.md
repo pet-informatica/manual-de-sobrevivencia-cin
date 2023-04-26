@@ -11,6 +11,7 @@
 * [<span class="iconify" data-icon="mdi-smart-card"></span> Solicitação de Crachá](/manual/solicitacao-de-cracha.md)
 * [<span class="iconify" data-icon="mdi-calendar-edit"></span> Reserva de Salas](/manual/reserva-de-salas.md)
 * [<span class="iconify" data-icon="mdi-table-chair"></span> Uso das Copas](/manual/uso-das-copas.md)
+* [<span class="iconify" data-icon="mdi-food"></span> Alimentação](/manual/alimentacao.md)
 * [<span class="iconify" data-icon="mdi-account-group"></span> Regras de Convivência](/manual/regras-de-convivencia.md)
 * [<span class="iconify" data-icon="mdi-wifi"></span> Wi-Fi](/manual/wifi.md)
 * [<span class="iconify" data-icon="mdi-vpn"></span> VPN](/manual/vpn.md)
