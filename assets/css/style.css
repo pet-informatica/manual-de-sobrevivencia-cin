@@ -1052,3 +1052,11 @@ pre::after {
 .icon-margin {
     margin-right: 4px;
 }
+
+ul.link-lists {
+    padding-left: 4rem;
+}
+
+h4.h4-list {
+    margin-bottom: 0rem;
+}
