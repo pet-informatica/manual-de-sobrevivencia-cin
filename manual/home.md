@@ -31,6 +31,11 @@ Caso você tenha dúvidas, correções, sugestões, ou outras informações úte
 
 ## O que há de novo nessa versão
 
+**Versão 2022.2**
+- Atualizamos todos os links antigos.
+- Nova página de [Recepção](https://pet.cin.ufpe.br/manual/#/manual/recep%C3%A7%C3%A3o) com todos os links passados durante a recepção dos calouros do 2023.1.
+- Nova página de [Alimentação](https://pet.cin.ufpe.br/manual/#/manual/alimentacao) com contatos  de serviços que vendem/entregam no Centro de Informática.
+
 **Versão 2021.1**
 
 - Atualizamos algumas informações sobre a VPN e os descontos acadêmicos.
