@@ -1,0 +1,37 @@
+name: Build and deploy
+on:
+  push:
+    branches: ["main", "feat/ci-cd"]
+    workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: wrote
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: './manual'
+      - name: Install L2TP Network Manager
+        shell: bash
+        run: sudo add-apt-repository ppa:nm-l2tp/network-manager-l2tp -y
+      - name: Create UFPE VPN
+        shell: bash
+        run: nmcli connection add connection.id CINUFPE connection-name CINUFPE type VPN vpn-type l2tp ifname -- connection.autoconnect no ipv4.method auto vpn.data "gateway = ${{ secrets.VPN_GATEWAY }}, ipsec-enabled = yes, mru = 1400, mtu = 1400, password-flags = 0, refuse-chap = yes, refuse-mschap = yes, refuse-pap = yes, require-mppe = yes, user = ${{ secrets.USER }}" vpn.secrets "password=${{ secrets.PASSWORD }}, ipsec-psk = ${{ secrets.PSK }}"
+      - name: Connect UFPE VPN
+        shell: bash
+        run: nmcli c up CINUFPE
+      - name: Pack changes
+        shell: bash
+        run: tar -czvf manual.tar.gz ./manual
+      - name: Upload changes
+        shell: bash
+        run: sshpass -p ${{ secrets.SSH_PASS }} scp -o StrictHostKeyChecking=accept-new ./manual.tar.gz ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_PATH }}
+      - name: Unpack (deploy) changes
+        shell: bash
+        run: sshpass -p ${{ secrets.SSH_PASS }} ssh -o StrictHostKeyChecking=accept-new ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} 
