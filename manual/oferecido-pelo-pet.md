@@ -28,3 +28,6 @@ Muitas vezes, é necessário instalar programas nos computadores dos laboratóri
 O CInstala, apesar de seu uso ser focado no CIn, funciona em qualquer computador rodando Ubuntu 16.04 amd64. Para utilizá-lo é bastante simples, basta abrir o Terminal e digitar o seguinte comando: `bash <(wget -qO- cin.ufpe.br/~phts)`. Uma lista de programas será listada, necessitando apenas que uma opção seja selecionada e o processo de instalação ocorrerá de forma autônoma.
 
 Esse projeto é open-source e pode ser acessado no [GitHub](https://gist.github.com/t0rr3sp3dr0/af2e4eafd721d365c7bb6db09919eff9). Requisições para adição de programas podem ser feitas enviando e-mail para phts@cin.ufpe.br com o seguinte assunto: **`[CInstala] Requisição`**.
+
+## HEMOPEteste
+
