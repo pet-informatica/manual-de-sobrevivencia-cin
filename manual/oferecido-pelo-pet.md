@@ -28,3 +28,19 @@ Muitas vezes, é necessário instalar programas nos computadores dos laboratóri
 O CInstala, apesar de seu uso ser focado no CIn, funciona em qualquer computador rodando Ubuntu 16.04 amd64. Para utilizá-lo é bastante simples, basta abrir o Terminal e digitar o seguinte comando: `bash <(wget -qO- cin.ufpe.br/~phts)`. Uma lista de programas será listada, necessitando apenas que uma opção seja selecionada e o processo de instalação ocorrerá de forma autônoma.
 
 Esse projeto é open-source e pode ser acessado no [GitHub](https://gist.github.com/t0rr3sp3dr0/af2e4eafd721d365c7bb6db09919eff9). Requisições para adição de programas podem ser feitas enviando e-mail para phts@cin.ufpe.br com o seguinte assunto: **`[CInstala] Requisição`**.
+
+## HEMOPE
+
+Por duas vezes ao ano, promovemos uma campanha de doação de sangue com o HEMOPE. Consiste de dois dias de campanha, onde montamos um posto de doação na Sala de Convivência do CIn, que fica localizada no Bloco A. Trabalhamos em parceria com o DA e com o Citi.
+
+É realizado um primeito contato do PET com o HEMOPE e, neste primeiro encontro é agendada uma visita técnica com a presença de uma assistente social e uma enfermeira, que ficam responsáveis por verificar o espaço do CIn e validar se tudo está nos conformes para que a campanha aconteça. Nesta visita também, acontece o agendamento da data de campanha, a reserva do anfiteatro, da sala de convivência, a sala A014 (que fica ao lado da sala de convivência) e as salas dos professores (Fidalgo, Ricardo e Sergio).
+
+No anfiteatro, nós recebemos os candidatos à doação para realizarem os seus cadastros e é onde realizamos algumas perguntas prévias, para saber se o candidato está realmente disponível para doação.
+
+Na sala dos professores é onde ficam os médicos e enfermeiros responsáveis por realizar a triagem clínica e avaliando se os candidatos estão aptos ou não para a doação.
+
+A sala A014 é onde é servido o lanche para os doadores.
+
+A sala de convivência é onde é realizada a coleta de sangue.
+
+A divulgação da campanha é realizada pelo Instagram oficial do PET Informática, pela anunciação por cartazes pela universidade e distribuição de panfletos pelos membros do grupo alocado. Os cartazes e panfletos são fornecidos pelo HEMOPE para serem distribuídos por nós para toda a comunidade da UFPE.
