@@ -29,5 +29,5 @@ O CInstala, apesar de seu uso ser focado no CIn, funciona em qualquer computador
 
 Esse projeto é open-source e pode ser acessado no [GitHub](https://gist.github.com/t0rr3sp3dr0/af2e4eafd721d365c7bb6db09919eff9). Requisições para adição de programas podem ser feitas enviando e-mail para phts@cin.ufpe.br com o seguinte assunto: **`[CInstala] Requisição`**.
 
-## HEMOPEtestandoestaporra1
+## HEMOPEtestandoestaporra
 
