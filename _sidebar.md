@@ -20,4 +20,4 @@
 * [<span class="iconify" data-icon="mdi-sale"></span> Descontos Acadêmicos](/manual/descontos-academicos.md)
 * [<span class="iconify" data-icon="mdi-chevron-double-up"></span> Oportunidades](/manual/oportunidades.md)
 * [<img class="custom-icon" src="assets/svg/pet-icon.svg"> Oferecido pelo PET](/manual/oferecido-pelo-pet.md)
-
+* [<span class="iconify" data-icon="material-symbols:work"></span> Estágio](/manual/estagio.md)
