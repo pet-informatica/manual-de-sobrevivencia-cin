@@ -114,6 +114,31 @@ Os blocos A, B e C compõem o prédio vermelho do CIn.
 
 O bloco D compreende as salas que se localizam no prédio do CCEN.
 
+<div class="tabset">
+
+<input type="radio" name="tabset-d" id="sel-d-biblio" aria-controls="d-biblio" checked>
+<label for="sel-d-biblio">Biblioteca</label>
+
+<input type="radio" name="tabset-d" id="sel-d-terreo" aria-controls="d-terreo">
+<label for="sel-d-terreo">Térreo</label>
+
+<input type="radio" name="tabset-d" id="sel-d-2-andar" aria-controls="d-2-andar">
+<label for="sel-d-2-andar">2º andar</label>
+
+<div class="tab-panels">
+<section id="d-biblio" class="tab-panel">
+<img class="map-svg" src="assets/svg/maps/d_biblio.svg"></img>
+</section>
+<section id="d-terreo" class="tab-panel">
+<img class="map-svg" src="assets/svg/maps/d_t.svg"></img>
+</section>
+<section id="d-2-andar" class="tab-panel">
+<img class="map-svg" src="assets/svg/maps/d_2.svg"></img>
+</section>
+</div>
+
+</div>
+
 ## Bloco E
 
 O bloco E compõe o prédio branco do CIn.
