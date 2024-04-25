@@ -63,6 +63,12 @@ Algumas das responsabilidades atribuídas à organização são: atividades acad
 
 Saiba mais sobre o DACIn acessando o endereço https://cin.ufpe.br/~da.
 
+## LACIQ
+
+A Liga Acadêmica de Computação e Informação Quântica (LACIQ) é uma instituição criada por acadêmicos dos Cursos de Engenharia da Computação, do Centro de Informática (Cin), e de Física, do Centro de Ciências Exatas e da Natureza (CCEN), da Universidade Federal de Pernambuco (UFPE), que busca tratar de temas da computação e informação quântica. A LACIQ se dedicará às atividades de ensino, pesquisa e extensão na área de computação quântica, organizando palestras e eventos, assim como promovendo internamente a seus membros a cultura científica na área.
+
+Saiba mais sobre a LACIQ acessando o endereço https://www.instagram.com/laciq.ufpe.
+
 ## Monitoria
 
 A monitoria é uma ótima oportunidade para quem gostou da disciplina e quer aprender um pouco mais sobre ela, além de passar os conhecimentos adquiridos para os próximos alunos. As atividades da disciplina consistem basicamente de: dar aulas extras, auxiliar o professor na aplicação de provas e mini provas, tirar dúvidas dos alunos sempre que solicitadas, e se aprofundar no assunto da disciplina.
