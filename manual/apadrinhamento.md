@@ -13,3 +13,14 @@ Informações como nome, e-mail para contato (institucional do CIn UFPE) e uma d
 Como apadrinhado, você é um estudante que acabou de entrar no Centro de Informática. Parabéns e seja muito bem-vindo desde já! Para participar do programa de Apadrinhamento, primeiro você deve verificar se a temporada da atividade é condizente com a sua entrada no curso. Por exemplo, se você começará a graduação em 2024.2, o seu Apadrinhamento também será o de 2024.2! Fique atento a esta informação para não se inscrever na atividade em um momento errado. 
 
 Se está tudo certinho e a sua entrada condiz com a temporada atual do programa, então um formulário de inscrição será aberto para que os novatos consigam repassar as suas informações para a equipe. Dados como nome, curso de entrada, descrição e motivação para estar no apadrinhamento são requeridas dos apadrinhados. Estes dados são importantes para que a equipe do Apadrinhamento possa encontrar um bom padrinho para você!
+
+
+
+## Contato
+Tem alguma dúvida referente ao Apadrinhamento ou quer fazer um comentário ou sugestão sobre o programa? Sinta-se a vontade para entrar em contato com qualquer um dos e-mails abaixo!
+
+| Organização | E-mail para contato |
+| ------------ | :---------------: |
+| PET Informática | pet@cin.ufpe.br
+| Diretório Acadêmico | da@cin.ufpe.br
+| Equipe do Apadrinhamento| apadrinhamento@cin.ufpe.br
