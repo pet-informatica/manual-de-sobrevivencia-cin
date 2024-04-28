@@ -19,7 +19,7 @@ Após o envio das informações dos estudantes novatos e antigos que desejam par
 
 Após finalizado o processo de casamento, as informações de contato da pessoa apadrinhada são repassadas para o padrinho, pois será de responsabilidade do aluno veterano iniciar a primeira comunicação nas atividades do Apadrinhamento.
 
-> : triangular_flag_on_post : Caso você esteja tendo qualquer tipo de problema comunicativo durante o programa do Apadrinhamento, é de suma importância que você entre em contato com as partes responsáveis pela atividade. Os canais de comunicação estão disponíveis no final desta página.
+> Caso você esteja tendo qualquer tipo de problema comunicativo durante o programa do Apadrinhamento, é de suma importância que você entre em contato com as partes responsáveis pela atividade. Os canais de comunicação estão disponíveis no final desta página.
 
 
 
