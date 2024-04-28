@@ -1,7 +1,7 @@
 # Apadrinhamento CIn - UFPE
 Dentro do Centro de Informática, o projeto de Apadrinhamento é uma iniciativa movida pelo PET Informática e pelo Diretório Acadêmico (DA) para facilitar a introdução dos novos estudantes com as dinâmicas da graduação e dos projetos dentro do CIn. Para que isto ocorra, o projeto cria uma ponte de comunicação entre os estudantes calouros e veteranos para que ocorra uma boa troca de experiências e informações sobre a faculdade.
 
-## Como acontece o apadrinhamento?
+## O que eu sou no apadrinhamento?
 O projeto de Apadrinhamento acontece todo o semestre e novos formulários de inscrição são abertos para cada parte que irá participar das ações durante aquele período. As inscrições são separadas em duas partes: entre padrinhos, estudantes veteranos que querem auxiliar na recepção dos calouros; e apadrinhados, novos estudantes do Centro de Informática que procuram conhecer a graduação.
 
 ### Sou padrinho
