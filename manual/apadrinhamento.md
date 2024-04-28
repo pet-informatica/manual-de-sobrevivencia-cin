@@ -14,6 +14,13 @@ Como apadrinhado, você é um estudante que acabou de entrar no Centro de Inform
 
 Se está tudo certinho e a sua entrada condiz com a temporada atual do programa, então um formulário de inscrição será aberto para que os novatos consigam repassar as suas informações para a equipe. Dados como nome, curso de entrada, descrição e motivação para estar no apadrinhamento são requeridas dos apadrinhados. Estes dados são importantes para que a equipe do Apadrinhamento possa encontrar um bom padrinho para você!
 
+## Como acontece o apadrinhamento?
+Após o envio das informações dos estudantes novatos e antigos que desejam participar das atividades do Apadrinhamento, a equipe tem a responsabilidade de casar os padrinhos com os seus devidos apadrinhados. As informações de descrição são de extrema importância neste processo, pois as personalidades e os gostos de cada veterano e de cada calouro são levadas em consideração quando há a realização do *match*. 
+
+Após finalizado o processo de casamento, as informações de contato da pessoa apadrinhada são repassadas para o padrinho, pois será de responsabilidade do aluno veterano iniciar a primeira comunicação nas atividades do Apadrinhamento.
+
+> : triangular_flag_on_post : Caso você esteja tendo qualquer tipo de problema comunicativo durante o programa do Apadrinhamento, é de suma importância que você entre em contato com as partes responsáveis pela atividade. Os canais de comunicação estão disponíveis no final desta página.
+
 
 
 ## Contato
