@@ -7,7 +7,7 @@ O projeto de Apadrinhamento acontece todo o semestre e novos formulários de ins
 ### Sou padrinho
 Como padrinho, você já é um estudante antigo no Centro de Informática e pretende ajudar algum calouro a se realocar da melhor forma possível dentro da faculdade. Para isto, no início da nova temporada do projeto, a equipe do Apadrinhamento abre um formulário para que novos padrinhos se inscrevam e repassem suas informações.
 
-Informações como nome, e-mail para contato (institucional do CIn UFPE) e uma descrição completa e detalhada do padrinho são essenciais para que o processo ocorra bem.
+O único requisito para se tornar padrinho é estar, no mínimo, no segundo período do seu curso. Informações como nome, e-mail para contato (institucional do CIn UFPE) e uma descrição completa e detalhada do padrinho são essenciais para que o processo ocorra bem.
 
 ### Sou apadrinhado
 Como apadrinhado, você é um estudante que acabou de entrar no Centro de Informática. Parabéns e seja muito bem-vindo desde já! Para participar do programa de Apadrinhamento, primeiro você deve verificar se a temporada da atividade é condizente com a sua entrada no curso. Por exemplo, se você começará a graduação em 2024.2, o seu Apadrinhamento também será o de 2024.2! Fique atento a esta informação para não se inscrever na atividade em um momento errado. 
