@@ -12,7 +12,16 @@ O único requisito para se tornar padrinho é estar, no mínimo, no segundo per�
 ### Sou apadrinhado
 Como apadrinhado, você é um estudante que acabou de entrar no Centro de Informática. Parabéns e seja muito bem-vindo desde já! Para participar do programa de Apadrinhamento, primeiro você deve verificar se a temporada da atividade é condizente com a sua entrada no curso. Por exemplo, se você começará a graduação em 2024.2, o seu Apadrinhamento também será o de 2024.2! Fique atento a esta informação para não se inscrever na atividade em um momento errado. 
 
-Se está tudo certinho e a sua entrada condiz com a temporada atual do programa, então um formulário de inscrição será aberto para que os novatos consigam repassar as suas informações para a equipe. Dados como nome, curso de entrada, descrição e motivação para estar no apadrinhamento são requeridas dos apadrinhados. Estes dados são importantes para que a equipe do Apadrinhamento possa encontrar um bom padrinho para você!
+Se está tudo certinho e a sua entrada condiz com a temporada atual do programa, então um formulário de inscrição será aberto para que os novatos consigam repassar as suas informações para a equipe. Dados como nome, telefone, e-mail, curso de entrada, descrição e motivação para estar no apadrinhamento são requeridas dos apadrinhados. Estes dados são importantes para que a equipe do Apadrinhamento possa encontrar um bom padrinho para você!
+
+## Há limite de vagas?
+Sim, o número de vagas de inscrição para padrinhos e apadrinhados é limitado. O número varia entre os cursos de Ciência da Computação, Sistemas da Informação e Engenharia da Computação. O número de vagas pode ser visto na tabela abaixo:
+
+| Curso | Número de vagas
+| ----- | -------------- |
+| Ciência da Computação | Até 50 estudantes |
+| Engenharia da Computação | Até 50 estudantes |
+| Sistemas da Informação | Até 35 estudantes |
 
 ## Como acontece o apadrinhamento?
 Após o envio das informações dos estudantes novatos e antigos que desejam participar das atividades do Apadrinhamento, a equipe tem a responsabilidade de casar os padrinhos com os seus devidos apadrinhados. As informações de descrição são de extrema importância neste processo, pois as personalidades e os gostos de cada veterano e de cada calouro são levadas em consideração quando há a realização do *match*. 
