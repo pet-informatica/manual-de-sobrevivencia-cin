@@ -30,6 +30,10 @@ Após finalizado o processo de casamento, as informações de contato da pessoa 
 
 > Caso você esteja tendo qualquer tipo de problema comunicativo durante o programa do Apadrinhamento, é de suma importância que você entre em contato com as partes responsáveis pela atividade. Os canais de comunicação estão disponíveis no final desta página.
 
+## Respeito e ética
+O projeto do Apadrinhamento foi criado para facilitar a introdução dos apadrinhados no Centro de Informática e criar um laço de comunicação entre as novas e antigas gerações do CIn. Qualquer situação de desconforto ou que fira os preceitos da ética não serão tolerados! Os canais de contato da equipe do Apadrinhamento, do PET Informática e do DA estão abertos para qualquer denúncia ou dúvida.
+
+Nos momentos finais da temporada do programa, um formulário de *feedback* será liberado para que o apadrinhado possa avaliar o seu padrinho durante o período de ocorrência das atividades. 
 
 
 ## Contato
