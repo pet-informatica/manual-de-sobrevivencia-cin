@@ -1,5 +1,5 @@
 # Apadrinhamento CIn - UFPE
-Dentro do Centro de Informática, o projeto de Apadrinhamento é uma iniciativa movida pelo PET Informática e pelo Diretório Acadêmico (DA) para facilitar a introdução dos novos estudantes com as dinâmicas da graduação e dos projetos dentro do CIn. Para que isto ocorra, o projeto cria uma ponte de comunicação entre os estudantes calouros e veteranos para que ocorra uma boa troca de experiências e informações sobre a faculdade.
+Dentro do Centro de Informática, o programa de Apadrinhamento é uma iniciativa da Coordenação de Ensino que é executada pelo PET Informática e pelo Diretório Acadêmico (DA) para facilitar a introdução dos novos estudantes com as dinâmicas da graduação e dos projetos dentro do CIn. Para que isto ocorra, o projeto cria uma ponte de comunicação entre os estudantes calouros e veteranos para que ocorra uma boa troca de experiências e informações sobre a faculdade.
 
 ## O que eu sou no apadrinhamento?
 O projeto de Apadrinhamento acontece todo o semestre e novos formulários de inscrição são abertos para cada parte que irá participar das ações durante aquele período. As inscrições são separadas em duas partes: entre padrinhos, estudantes veteranos que querem auxiliar na recepção dos calouros; e apadrinhados, novos estudantes do Centro de Informática que procuram conhecer a graduação.
@@ -26,9 +26,17 @@ Sim, o número de vagas de inscrição para padrinhos e apadrinhados é limitado
 ## Como acontece o apadrinhamento?
 Após o envio das informações dos estudantes novatos e antigos que desejam participar das atividades do Apadrinhamento, a equipe tem a responsabilidade de casar os padrinhos com os seus devidos apadrinhados. As informações de descrição são de extrema importância neste processo, pois as personalidades e os gostos de cada veterano e de cada calouro são levadas em consideração quando há a realização do *match*. 
 
-Após finalizado o processo de casamento, as informações de contato da pessoa apadrinhada são repassadas para o padrinho, pois será de responsabilidade do aluno veterano iniciar a primeira comunicação nas atividades do Apadrinhamento.
+Após finalizado o processo de casamento, as informações de contato do padrinho são repassadas para a pessoa apadrinhada, pois será de responsabilidade do aluno calouro iniciar a primeira comunicação nas atividades do Apadrinhamento.
 
 > Caso você esteja tendo qualquer tipo de problema comunicativo durante o programa do Apadrinhamento, é de suma importância que você entre em contato com as partes responsáveis pela atividade. Os canais de comunicação estão disponíveis no final desta página.
+
+## Momento de Confraternização
+
+Após o contato entre os padrinhos e apadrinhados terem sido estabelecidos, uma confraternização é marcado no anfiteatro do CIn para explicar o projeto e tirar algumas dúvidas com os veteranos e os estudantes novatos. Além disso, a equipe do Apadrinhamento organiza um momento de jogos e karaokê para criar momentos interativos entre os alunos.
+
+É muito importante que o padrinho e o apadrinhado já tenham criado algum tipo de contato antes da confraternização. Como dito anteriormente, a primeira comunicação é trabalho do apadrinhado e qualquer aviso de ausência durante o momento deve ser comunicado. 
+
+Se você tiver tido qualquer problema nesta etapa, entre em contato com qualquer e-mail de contato.
 
 ## Respeito e ética
 O projeto do Apadrinhamento foi criado para facilitar a introdução dos apadrinhados no Centro de Informática e criar um laço de comunicação entre as novas e antigas gerações do CIn. Qualquer situação de desconforto ou que fira os preceitos da ética não serão tolerados! Os canais de contato da equipe do Apadrinhamento, do PET Informática e do DA estão abertos para qualquer denúncia ou dúvida.
