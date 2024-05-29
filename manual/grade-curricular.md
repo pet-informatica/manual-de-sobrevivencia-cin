@@ -6,7 +6,7 @@ As disciplinas eletivas não são ofertadas em todos os períodos, sendo necess�
 
 ## Ciência da Computação
 
-Caso busque maiores informações sobre as disciplinas, você pode verificar o [PPC](https://drive.google.com/file/d/1sfFibExh-Zc-diRYIG0oVkxfEO-uuTKW/view). Já a oferta e o horário das cadeiras podem ser verificados [aqui](https://secgrad.cin.ufpe.br/) em "Informes".
+Caso busque maiores informações sobre as disciplinas, você pode verificar o [PPC (Plano Pedagógico do Curso)](https://drive.google.com/file/d/1sfFibExh-Zc-diRYIG0oVkxfEO-uuTKW/view). Já a oferta e o horário das cadeiras podem ser verificados [aqui](https://secgrad.cin.ufpe.br/) em "Informes".
 
 Para aumentar, selecione a imagem.
 
