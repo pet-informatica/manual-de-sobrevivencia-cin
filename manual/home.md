@@ -16,7 +16,7 @@
 </div>
 
 <div class="home-three">
-<a href="https://siga.ufpe.br/"><img src="assets/svg/button_siga.svg" alt="Siga"></a>
+<a href="https://sigaa.ufpe.br/"><img src="assets/svg/button_sigaa.svg" alt="Siga"></a>
 <a href="https://www.ufpe.br/"><img src="assets/svg/button_ufpe.svg" alt="UFPE"></a>
 <a href="https://pet.cin.ufpe.br/"><img src="assets/svg/button_pet.svg" alt="PET"></a>
 </div>
@@ -41,4 +41,4 @@ Caso você tenha dúvidas, correções, sugestões, ou outras informações úte
 
 ## Conecte-se com a gente
 
-Siga o PET-Informática nas redes sociais! Estamos no **[<span class="iconify icon-margin" data-icon="mdi-facebook"></span>Facebook](https://fb.me/petinformatica)** e no **[<span class="iconify icon-margin" data-icon="mdi-instagram"></span>Instagram](https://instagr.am/petinformatica)** como _@petinformatica_ e no **[<span class="iconify icon-margin" data-icon="mdi-github"></span>GitHub](https://github.com/pet-informatica)** como _@pet-informatica_.
+SIGAA o PET-Informática nas redes sociais! Estamos no **[<span class="iconify icon-margin" data-icon="mdi-facebook"></span>Facebook](https://fb.me/petinformatica)** e no **[<span class="iconify icon-margin" data-icon="mdi-instagram"></span>Instagram](https://instagr.am/petinformatica)** como _@petinformatica_ e no **[<span class="iconify icon-margin" data-icon="mdi-github"></span>GitHub](https://github.com/pet-informatica)** como _@pet-informatica_.

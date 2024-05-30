@@ -4,7 +4,7 @@
 
 O Programa de Educação Tutorial (PET) é um programa institucional financiado pela Secretaria de Educação Superior – SESu/MEC. Segundo a própria SESu, os objetivos do programa são: a melhoria do ensino de graduação, a formação acadêmica ampla do aluno, a interdisciplinaridade, a atuação coletiva, o planejamento, e a execução. O alunos costumam realizar as atividades seguindo os 3 pilares, que são: ensino, pesquisa, e extensão.
 
-O grupo costuma fazer tanto atividades internas quanto atividades feitas para o público, com o objetivo de trazer temas atuais e de interesse comum, para fugir um pouco da rotina do CIn. Suas principais atividades incluem a Olimpíada Pernambucana de Informática (OPEI), o Curso de Férias em Python, o CIn Salva Vidas (HEMOPE), o HackaPET, workshops de compartilhamento de conhecimento com o SharePET e o PETLab. E também é responsável pela criação e manutenção da CInWiki, do Manual de Sobrevivência, e do PETLib. O PET-Informática existe desde setembro de 1996 e atualmente é tutorado pela professora doutora Simone Santos e formado por 18 alunos, sendo 12 bolsistas e 6 voluntários. O estado de petiano se mantém até o fim da graduação, não havendo limite de permanência no PET.
+O grupo costuma fazer tanto atividades internas quanto atividades feitas para o público, com o objetivo de trazer temas atuais e de interesse comum, para fugir um pouco da rotina do CIn. Suas principais atividades incluem a Olimpíada Pernambucana de Informática (OPEI), o Curso de Férias em Python, o CIn Salva Vidas (HEMOPE), o HackaPET, workshops de compartilhamento de conhecimento com o SharePET e o PETLab. E também é responsável pela criação e manutenção da CInWiki, do Manual de Sobrevivência, e do PETLib. O PET-Informática existe desde setembro de 1996 e atualmente é tutorado pelo professor doutor Robson Fidalgo e formado por 18 alunos, sendo 12 bolsistas e 6 voluntários. O estado de petiano se mantém até o fim da graduação, não havendo limite de permanência no PET.
 
 Para fazer parte do PET, os alunos do curso de Ciência da Computação do CIn se submetem ao processo seletivo, que acontece uma vez por ano e inclui análise de currículo, entrevistas, e dinâmicas em grupo. Atividade de Monitoria e IC não são pré-requisitos para entrar no PET-Informática, mas, devido à natureza do PET, são bonificadas na etapa de avaliação de currículo.
 
@@ -63,6 +63,12 @@ Algumas das responsabilidades atribuídas à organização são: atividades acad
 
 Saiba mais sobre o DACIn acessando o endereço https://cin.ufpe.br/~da.
 
+## LACIQ
+
+A Liga Acadêmica de Computação e Informação Quântica (LACIQ) é uma instituição criada por acadêmicos dos Cursos de Engenharia da Computação, do Centro de Informática (Cin), e de Física, do Centro de Ciências Exatas e da Natureza (CCEN), da Universidade Federal de Pernambuco (UFPE), que busca tratar de temas da computação e informação quântica. A LACIQ se dedicará às atividades de ensino, pesquisa e extensão na área de computação quântica, organizando palestras e eventos, assim como promovendo internamente a seus membros a cultura científica na área.
+
+Saiba mais sobre a LACIQ acessando o endereço https://www.instagram.com/laciq.ufpe.
+
 ## Monitoria
 
 A monitoria é uma ótima oportunidade para quem gostou da disciplina e quer aprender um pouco mais sobre ela, além de passar os conhecimentos adquiridos para os próximos alunos. As atividades da disciplina consistem basicamente de: dar aulas extras, auxiliar o professor na aplicação de provas e mini provas, tirar dúvidas dos alunos sempre que solicitadas, e se aprofundar no assunto da disciplina.
@@ -79,7 +85,7 @@ Para quem se interessa em fazer pesquisas, a Iniciação Científica (IC) é uma
 
 ## Estágio Obrigatório
 
-O estágio é uma disciplina obrigatória no SIGA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
+O estágio é uma disciplina obrigatória no SIGAA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
 
 Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio possa ser oficializado:
 
@@ -87,18 +93,18 @@ Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio po
 - **Ciência da Computação** (IF421): o aluno deve ter cursado todas as disciplinas obrigatórias (exceto apenas de trabalho de graduação e o próprio estágio obrigatório), totalizando carga horária maior que 1905h.
 - **Engenharia da Computação** (IF819): o aluno deve ter integralizado 63% da carga horária total do curso (isso inclui eletivas, eletivas livres, etc).
 
-!> Essas porcentagens podem ser consultadas pelo Sig@.
+!> Essas porcentagens podem ser consultadas pelo SIGAA.
 
 ### Oficializando o processo de estágio
 
 Dois documentos são necessários para oficializar a disciplina: o **plano de atividades** e o **contrato de estágio**.
 
-O plano de atividades do estágio pode ser obtido no site oficial da cadeira: http://www.cin.ufpe.br/~if819/. Lá, você deve encontrar tanto um plano vazio, quanto um template de exemplo já preenchido. Baixe 3 vias desse documento, e siga os passos abaixo:
+O plano de atividades do estágio pode ser obtido no site oficial da cadeira: http://www.cin.ufpe.br/~if819/. Lá, você deve encontrar tanto um plano vazio, quanto um template de exemplo já preenchido. Baixe 3 vias desse documento, e SIGAA os passos abaixo:
 
 1. Você precisará de um _supervisor de estágio_. Essa pessoa será um funcionário da empresa onde você vai estagiar. Ela ficará responsável por você, e vai avaliar sua
 performance durante o trabalho.
 2. O seu _supervisor de estágio_ deve preencher e assinar o plano de atividades, que descreve em linhas gerais quais serão suas atribuições ao longo do trabalho. Envie esse documento para ele, ou para a empresa, e peça para eles preencherem.
-3. Você precisará de um _orientador de estágio_. Essa pessoa será um professor do CIn que ficará responsável por você. Ele vai receber relatórios do seu _supervisor_ e transformar essas informações em notas para colocar no Sig@. Além disso, ele será seu ponto de apoio caso aconteça algum problema com a empresa.
+3. Você precisará de um _orientador de estágio_. Essa pessoa será um professor do CIn que ficará responsável por você. Ele vai receber relatórios do seu _supervisor_ e transformar essas informações em notas para colocar no SIGAA. Além disso, ele será seu ponto de apoio caso aconteça algum problema com a empresa.
 4. Você e seu _orientador de estágio_ deve assinar o seu plano de atividades.
 5. Lembre-se que essas assinaturas devem estar nas 3 vias.
 
@@ -112,7 +118,7 @@ Finalmente, você tem 3 vias do plano de atividades com todas as assinaturas exc
 
 Após esse processo, volte ao _CIEE_ e entregue o contrato lá. Eles vão colocar a assinatura final, e enviar seu contrato para a _PROACAD/UFPE_.
 
-Depois desse longo processo, você está apto a ir na [Secretaria de Graduação](/manual/secretaria-de-graduacao) e solicitar que a cadeira de Estágio Obrigatório seja incluída no seu Sig@. Isso pode ser feito em qualquer momento do período, então não se preocupe em terminar isso tudo antes da matrícula.
+Depois desse longo processo, você está apto a ir na [Secretaria de Graduação](/manual/secretaria-de-graduacao) e solicitar que a cadeira de Estágio Obrigatório seja incluída no seu SIGAA. Isso pode ser feito em qualquer momento do período, então não se preocupe em terminar isso tudo antes da matrícula.
 
 Você pode encontrar informações gerais sobre estágios [neste link](https://docs.google.com/a/cin.ufpe.br/viewer?a=v&pid=sites&srcid=Y2luLnVmcGUuYnJ8Y29vcmQtY2N8Z3g6MTFkYTMzNTkxOTdhMmQyZQ).
 

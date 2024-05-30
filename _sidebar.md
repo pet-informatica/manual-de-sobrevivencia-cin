@@ -3,7 +3,7 @@
 * [<span class="iconify" data-icon="mdi-notebook-edit-outline"></span> Recepção](/manual/recepção.md)
 
 * [<span class="iconify" data-icon="mdi-timetable"></span> Carga Horária](/manual/carga-horaria.md)
-* [<span class="iconify" data-icon="mdi-at"></span> SIG@](/manual/siga.md)
+*  [<span class="iconify" data-icon="mdi:academic-cap-outline"></span> SIGAA](/manual/siga.md)
 * [<span class="iconify" data-icon="mdi-account-tie"></span> Secretaria de Graduação](/manual/secretaria-de-graduacao.md)
 * [<span class="iconify" data-icon="mdi-face-agent"></span> Help Desk](/manual/help-desk.md)
 * [<span class="iconify" data-icon="mdi-book"></span> Biblioteca](/manual/biblioteca.md)
@@ -20,4 +20,4 @@
 * [<span class="iconify" data-icon="mdi-sale"></span> Descontos Acadêmicos](/manual/descontos-academicos.md)
 * [<span class="iconify" data-icon="mdi-chevron-double-up"></span> Oportunidades](/manual/oportunidades.md)
 * [<img class="custom-icon" src="assets/svg/pet-icon.svg"> Oferecido pelo PET](/manual/oferecido-pelo-pet.md)
-
+* [<span class="iconify" data-icon="material-symbols:work"></span> Estágio](/manual/estagio.md)
