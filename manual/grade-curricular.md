@@ -10,7 +10,7 @@ Caso busque maiores informações sobre as disciplinas, você pode verificar o [
 
 Para aumentar, selecione a imagem.
 
-<a href="assets/svg/perfil-curricular-cc.svg">
+<a href="assets/img/perfil-curricular-cc.png">
 <img alt="Perfil Curricular de Ciência da Computação" src="assets/img/perfil-curricular-cc.png">
 </a>
 
@@ -20,7 +20,7 @@ Caso busque maiores informações sobre as disciplinas, você pode verificar o [
 
 Para aumentar, selecione a imagem.
   
-<a href="assets/svg/perfil-curricular-ec.svg">
+<a href="assets/img/perfil-curricular-ec.png">
 <img alt="Perfil Curricular de Engenharia da Computação" src="assets/img/perfil-curricular-ec.png">
 </a>
 
@@ -30,6 +30,6 @@ Caso busque maiores informações sobre as disciplinas, você pode verificar o [
 
 Para aumentar, selecione a imagem.
   
-<a href="assets/svg/perfil-curricular-si.svg">
+<a href="assets/img/perfil-curricular-si.png">
 <img alt="Perfil Curricular de Sistemas de Informação" src="assets/img/perfil-curricular-si.png">
 </a>
