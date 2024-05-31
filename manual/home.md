@@ -16,7 +16,7 @@
 </div>
 
 <div class="home-three">
-<a href="https://siga.ufpe.br/"><img src="assets/svg/button_siga.svg" alt="Siga"></a>
+<a href="https://sigaa.ufpe.br/"><img src="assets/svg/button_sigaa.svg" alt="Sigaa"></a>
 <a href="https://www.ufpe.br/"><img src="assets/svg/button_ufpe.svg" alt="UFPE"></a>
 <a href="https://pet.cin.ufpe.br/"><img src="assets/svg/button_pet.svg" alt="PET"></a>
 </div>

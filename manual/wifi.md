@@ -7,6 +7,6 @@ Esta é a rede interna do CIn, destinada aos seus alunos, professores, e servido
 Esta é a rede para visitantes do CIn. Ela possui velocidade limitada e possui diversos bloqueios, podendo às vezes impossibilitar acesso a determinados serviços. A senha que garante acesso à essa rede é `acessocin`.
 
 ## Rede eduroam
-Esta é a rede livre da UFPE, destinada aos seus alunos, professores, e servidores. Sua cobertura se estende por todo o campus e seu acesso se faz utilizando seu e-mail institucional do SIG@ e a Senha de Serviços Integrados da UFPE.
+Esta é a rede livre da UFPE, destinada aos seus alunos, professores, e servidores. Sua cobertura se estende por todo o campus e seu acesso se faz utilizando seu e-mail institucional do SIGAA e a Senha de Serviços Integrados da UFPE.
 
-!> O e-mail institucional do SIG@ é seu login da UFPE, diferente do seu login do CIn. A Senha de Serviços Integrados pode ser alterada por meio do SIG@.
+!> O e-mail institucional do SIGAA é seu login da UFPE, diferente do seu login do CIn. A Senha de Serviços Integrados pode ser alterada por meio do SIGAA.
