@@ -3,7 +3,7 @@
 * [<span class="iconify" data-icon="mdi-notebook-edit-outline"></span> Recepção](/manual/recepção.md)
 
 * [<span class="iconify" data-icon="mdi-timetable"></span> Carga Horária](/manual/carga-horaria.md)
-* [<span class="iconify" data-icon="mdi-at"></span> SIG@](/manual/siga.md)
+*  [<span class="iconify" data-icon="mdi:academic-cap-outline"></span> SIGAA](/manual/sigaa.md)
 * [<span class="iconify" data-icon="mdi-account-tie"></span> Secretaria de Graduação](/manual/secretaria-de-graduacao.md)
 * [<span class="iconify" data-icon="mdi-face-agent"></span> Help Desk](/manual/help-desk.md)
 * [<span class="iconify" data-icon="mdi-book"></span> Biblioteca](/manual/biblioteca.md)

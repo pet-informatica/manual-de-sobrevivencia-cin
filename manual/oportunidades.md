@@ -85,7 +85,7 @@ Para quem se interessa em fazer pesquisas, a Iniciação Científica (IC) é uma
 
 ## Estágio Obrigatório
 
-O estágio é uma disciplina obrigatória no SIGA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
+O estágio é uma disciplina obrigatória no SIGAA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
 
 Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio possa ser oficializado:
 
@@ -93,7 +93,7 @@ Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio po
 - **Ciência da Computação** (IF421): o aluno deve ter cursado todas as disciplinas obrigatórias (exceto apenas de trabalho de graduação e o próprio estágio obrigatório), totalizando carga horária maior que 1905h.
 - **Engenharia da Computação** (IF819): o aluno deve ter integralizado 63% da carga horária total do curso (isso inclui eletivas, eletivas livres, etc).
 
-!> Essas porcentagens podem ser consultadas pelo Sig@.
+!> Essas porcentagens podem ser consultadas pelo SigaA.
 
 ### Oficializando o processo de estágio
 
@@ -104,7 +104,7 @@ O plano de atividades do estágio pode ser obtido no site oficial da cadeira: ht
 1. Você precisará de um _supervisor de estágio_. Essa pessoa será um funcionário da empresa onde você vai estagiar. Ela ficará responsável por você, e vai avaliar sua
 performance durante o trabalho.
 2. O seu _supervisor de estágio_ deve preencher e assinar o plano de atividades, que descreve em linhas gerais quais serão suas atribuições ao longo do trabalho. Envie esse documento para ele, ou para a empresa, e peça para eles preencherem.
-3. Você precisará de um _orientador de estágio_. Essa pessoa será um professor do CIn que ficará responsável por você. Ele vai receber relatórios do seu _supervisor_ e transformar essas informações em notas para colocar no Sig@. Além disso, ele será seu ponto de apoio caso aconteça algum problema com a empresa.
+3. Você precisará de um _orientador de estágio_. Essa pessoa será um professor do CIn que ficará responsável por você. Ele vai receber relatórios do seu _supervisor_ e transformar essas informações em notas para colocar no SigaA. Além disso, ele será seu ponto de apoio caso aconteça algum problema com a empresa.
 4. Você e seu _orientador de estágio_ deve assinar o seu plano de atividades.
 5. Lembre-se que essas assinaturas devem estar nas 3 vias.
 
@@ -118,7 +118,7 @@ Finalmente, você tem 3 vias do plano de atividades com todas as assinaturas exc
 
 Após esse processo, volte ao _CIEE_ e entregue o contrato lá. Eles vão colocar a assinatura final, e enviar seu contrato para a _PROACAD/UFPE_.
 
-Depois desse longo processo, você está apto a ir na [Secretaria de Graduação](/manual/secretaria-de-graduacao) e solicitar que a cadeira de Estágio Obrigatório seja incluída no seu Sig@. Isso pode ser feito em qualquer momento do período, então não se preocupe em terminar isso tudo antes da matrícula.
+Depois desse longo processo, você está apto a ir na [Secretaria de Graduação](/manual/secretaria-de-graduacao) e solicitar que a cadeira de Estágio Obrigatório seja incluída no seu SigaA. Isso pode ser feito em qualquer momento do período, então não se preocupe em terminar isso tudo antes da matrícula.
 
 Você pode encontrar informações gerais sobre estágios [neste link](https://docs.google.com/a/cin.ufpe.br/viewer?a=v&pid=sites&srcid=Y2luLnVmcGUuYnJ8Y29vcmQtY2N8Z3g6MTFkYTMzNTkxOTdhMmQyZQ).
 

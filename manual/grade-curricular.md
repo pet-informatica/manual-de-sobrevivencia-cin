@@ -11,6 +11,7 @@ Caso busque maiores informações sobre as disciplinas, você pode verificar o [
 Para aumentar, selecione a imagem.
 
 <a href="assets/img/perfil-curricular-cc.png">
+
 <img alt="Perfil Curricular de Ciência da Computação" src="assets/img/perfil-curricular-cc.png">
 </a>
 
@@ -19,8 +20,9 @@ Para aumentar, selecione a imagem.
 Caso busque maiores informações sobre as disciplinas, você pode verificar o [PPC](https://drive.google.com/file/d/1OviaeY9QZGlXYxiH2yVQYeG26Izttj-L/view). Já a oferta e o horário das cadeiras podem ser verificados [aqui](https://secgrad.cin.ufpe.br/).
 
 Para aumentar, selecione a imagem.
-  
+
 <a href="assets/img/perfil-curricular-ec.png">
+
 <img alt="Perfil Curricular de Engenharia da Computação" src="assets/img/perfil-curricular-ec.png">
 </a>
 
@@ -29,7 +31,7 @@ Para aumentar, selecione a imagem.
 Caso busque maiores informações sobre as disciplinas, você pode verificar o [PPC](https://drive.google.com/file/d/17_fnuoF80n8BPino4HtFlpjypcc6DxvP/view). Já a oferta e o horário das cadeiras podem ser verificados [aqui](https://secgrad.cin.ufpe.br/).
 
 Para aumentar, selecione a imagem.
-  
+
 <a href="assets/img/perfil-curricular-si.png">
 <img alt="Perfil Curricular de Sistemas de Informação" src="assets/img/perfil-curricular-si.png">
 </a>

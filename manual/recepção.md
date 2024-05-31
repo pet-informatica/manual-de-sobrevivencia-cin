@@ -2,7 +2,7 @@
 
 Nesta página você encontra os links que foram indicados durante a recepção dos calouros para os três cursos.
 
-As disciplinas eletivas não são ofertadas em todos os períodos, sendo necessário ver a grade de oferta no [site da Secretaria de Graduação](https://sites.google.com/site/secgradcin/home) ou no [SIG@](https://siga.ufpe.br/). Muitas disciplinas eletivas estão disponíveis apenas no período de modificação de matrícula.
+As disciplinas eletivas não são ofertadas em todos os períodos, sendo necessário ver a grade de oferta no [site da Secretaria de Graduação](https://sites.google.com/site/secgradcin/home) ou no [SIGAA](https://sigaa.ufpe.br/). Muitas disciplinas eletivas estão disponíveis apenas no período de modificação de matrícula.
 
 # Ferramentas
 
