@@ -1,0 +1,25 @@
+name: Deploy manual
+on:
+  push:
+    branches: 
+      ["master"]
+  workflow_dispatch:
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: 
+      - self-hosted
+      - linux
+      - x64
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: './manual'
+      - name: Copy changes
+        shell: bash
+        run: |
+          rm -rf ${{ secrets.VM_MANUAL_PATH }}/*
+          cp -r ./manual/* ${{ secrets.VM_MANUAL_PATH }}

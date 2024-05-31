@@ -85,7 +85,7 @@ Para quem se interessa em fazer pesquisas, a Iniciação Científica (IC) é uma
 
 ## Estágio Obrigatório
 
-O estágio é uma disciplina obrigatória no SIGA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
+O estágio é uma disciplina obrigatória no SIGAA, assim como o TG. Todo aluno do CIn precisa realizar um estágio em algum momento do curso para poder se formar. Apesar disso, é responsabilidade do aluno buscar alguma empresa e ser aprovado no processo seletivo da mesma.
 
 Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio possa ser oficializado:
 
@@ -99,7 +99,7 @@ Existem alguns pré requisitos que o aluno deve cumprir para que seu estágio po
 
 Dois documentos são necessários para oficializar a disciplina: o **plano de atividades** e o **contrato de estágio**.
 
-O plano de atividades do estágio pode ser obtido no site oficial da cadeira: http://www.cin.ufpe.br/~if819/. Lá, você deve encontrar tanto um plano vazio, quanto um template de exemplo já preenchido. Baixe 3 vias desse documento, e siga os passos abaixo:
+O plano de atividades do estágio pode ser obtido no site oficial da cadeira: http://www.cin.ufpe.br/~if819/. Lá, você deve encontrar tanto um plano vazio, quanto um template de exemplo já preenchido. Baixe 3 vias desse documento, e SIGAA os passos abaixo:
 
 1. Você precisará de um _supervisor de estágio_. Essa pessoa será um funcionário da empresa onde você vai estagiar. Ela ficará responsável por você, e vai avaliar sua
 performance durante o trabalho.

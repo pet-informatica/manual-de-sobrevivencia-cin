@@ -41,4 +41,4 @@ Caso você tenha dúvidas, correções, sugestões, ou outras informações úte
 
 ## Conecte-se com a gente
 
-Siga o PET-Informática nas redes sociais! Estamos no **[<span class="iconify icon-margin" data-icon="mdi-facebook"></span>Facebook](https://fb.me/petinformatica)** e no **[<span class="iconify icon-margin" data-icon="mdi-instagram"></span>Instagram](https://instagr.am/petinformatica)** como _@petinformatica_ e no **[<span class="iconify icon-margin" data-icon="mdi-github"></span>GitHub](https://github.com/pet-informatica)** como _@pet-informatica_.
+SIGAA o PET-Informática nas redes sociais! Estamos no **[<span class="iconify icon-margin" data-icon="mdi-facebook"></span>Facebook](https://fb.me/petinformatica)** e no **[<span class="iconify icon-margin" data-icon="mdi-instagram"></span>Instagram](https://instagr.am/petinformatica)** como _@petinformatica_ e no **[<span class="iconify icon-margin" data-icon="mdi-github"></span>GitHub](https://github.com/pet-informatica)** como _@pet-informatica_.
