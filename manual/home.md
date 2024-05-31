@@ -31,6 +31,11 @@ Caso você tenha dúvidas, correções, sugestões, ou outras informações úte
 
 ## O que há de novo nessa versão
 
+**Versão 2024.1**
+
+- Atualizamos as instruções de uso do SIG@ para o SIGAA.
+- Atualizamos os fluxogramas de grade curricular para os novos formatos propostos em 2024.
+
 **Versão 2021.1**
 
 - Atualizamos algumas informações sobre a VPN e os descontos acadêmicos.
